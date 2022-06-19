@@ -1,0 +1,411 @@
+{
+  "Italian": [
+    {
+      "name": "Pizza",
+      "ingredients": [
+        "2 ½ cups warm water",
+        "1 teaspoon sugar",
+        "2 teaspoons active dry yeast",
+        "7 cups all-purpose flour",
+        "6 tablespoons extra virgin olive oil",
+        "1 ½ teaspoons kosher salt",
+        "¼ cup semolina flour",
+        "28 oz canned whole tomatoes",
+        "1 package fresh mozzarella cheese",
+        "3 fresh basil leaf"
+      ],
+      "preparationTime": "120 minutes",
+      "calories": "1691",
+      "recipe": [
+        "'Bloom' the yeast by sprinkling the sugar and yeast in the warm water. Let sit for 10 minutes, until bubbles form on the surface.",
+        "In a large bowl, combine the flour and salt. Make a well in the middle and add the olive oil and bloomed yeast mixture. Using a spoon, mix until a shaggy dough begins to form.",
+        "Once the flour is mostly hydrated, turn the dough out onto a clean work surface and knead for 10-15 minutes. The dough should be soft, smooth, and bouncy. Form the dough into a taut round.",
+        "Grease a clean, large bowl with olive oil and place the dough inside, turning to coat with the oil. Cover with plastic wrap. Let rise for at least an hour, or up to 24 hours.",
+        "Punch down the dough and turn it out onto a lightly floured work surface. Knead for another minute or so, then cut into 4 equal portions and shape into rounds.",
+        "Lightly flour the dough, then cover with a kitchen towel and let rest for another 30 minutes to an hour while you prepare the sauce and any other ingredients.",
+        "Preheat the oven as high as your oven will allow, between 450-500˚F (230-260˚C). Place a pizza stone, heavy baking sheet (turn upside down so the surface is flat), or cast iron skillet in the oven.",
+        "Meanwhile, make the tomato sauce: Add the salt to the can of tomatoes and puree with an immersion blender, or transfer to a blender or food processor, and puree until smooth.",
+        "Once the dough has rested, take a portion and start by poking the surface with your fingertips, until bubbles form and do not deflate.",
+        "Then, stretch and press the dough into a thin round. Make it thinner than you think it should be, as it will slightly shrink and puff up during baking.",
+        "Sprinkle semolina onto an upside down baking sheet and place the stretched crust onto it. Add the sauce and ingredients of your choice.",
+        "Slide the pizza onto the preheated pizza stone or pan. Bake for 15 minutes, or until the crust and cheese are golden brown.",
+        "Add any garnish of your preference."
+      ],
+      "difficulty": "4.5",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "name": "Spaghetti",
+      "ingredients": [
+        "3 cloves garlic",
+        "1 tbsp oil",
+        "13.5 oz tomato sauce",
+        "½ cup fresh parmesan cheese",
+        "1 cup cooking cream",
+        "salt",
+        "Black Pepper"
+      ],
+      "preparationTime": "25 minutes",
+      "calories": "889",
+      "recipe": [
+        "Cut the garlic into small pieces. Set aside.",
+        "In a skillet, heat the oil over medium-high heat. Add the garlic. Cook it for 1 minute. Do not roast, as this will change the taste of the sauce. Stir a little.",
+        "Add the tomato sauce and stir well.",
+        "Add the parmesan cheese while stirring with a whisk. Mix well.",
+        "Add the cream and stir while bringing to a boil.",
+        "Add salt and pepper to taste. Stir well for about 5 minutes and remove from heat.",
+        "Serve over pasta."
+      ],
+      "difficulty": "4.5",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYnATq4HumExDvjBSsdMpj1dAeI8U9znf7DgeiN4FG&s"
+    },
+    {
+      "name": "Lasagne",
+      "ingredients": [
+        "1 pound sweet Italian sausage",
+        "¾ pound lean ground beef",
+        "½ cup minced onion",
+        "2 cloves garlic, crushed",
+        "1 (28 ounce) can crushed tomatoes",
+        "2 (6 ounce) cans tomato paste",
+        "2 (6.5 ounce) cans canned tomato sauce",
+        "½ cup water",
+        "2 tablespoons white sugar",
+        "1 ½ teaspoons dried basil leaves",
+        "½ teaspoon fennel seeds",
+        "1 teaspoon Italian seasoning",
+        "1 ½ teaspoons salt, divided, or to taste",
+        "¼ teaspoon ground black pepper",
+        "4 tablespoons chopped fresh parsley",
+        "12 lasagna noodles",
+        "16 ounces ricotta cheese",
+        "1 egg",
+        "¾ pound mozzarella cheese, sliced",
+        "¾ cup grated Parmesan cheese"
+      ],
+      "preparationTime": "3 hours",
+      "calories": "889",
+      "recipe": [
+        "In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned. Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Season with sugar, basil, fennel seeds, Italian seasoning, 1 teaspoon salt, pepper, and 2 tablespoons parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally.",
+        "Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining parsley, and 1/2 teaspoon salt.",
+        "Preheat oven to 190 degrees C.",
+        "To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13-inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with one half of the ricotta cheese mixture. Top with a third of mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese.",
+        "Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Cool for 15 minutes before serving."
+      ],
+      "difficulty": "4.5",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV3Y_pKgdqDseBxJ2nlPYAj8EF-Li3m8Yy5stS1Xti&s"
+    }
+  ],
+  "Japanese": [
+    {
+      "name": "Sushi",
+      "ingredients": [
+        "6 sheets sushi seaweed",
+        "1 batch prepared sushi rice",
+        "1/2 lb sushi-grade raw salmon",
+        "4 oz cream cheese",
+        "1 avocado",
+        "soy sauce"
+      ],
+      "preparationTime": "15 minutes",
+      "calories": "190",
+      "recipe": [
+        "Place the seaweed on a bamboo mat, then cover the sheet of seaweed with an even layer of prepared sushi rice. Smooth gently with the rice paddle.",
+        "Layer salmon, cream cheese, and avocado on the rice, and roll it up tightly. Slice with a sharp knife, and enjoy with soy sauce."
+      ],
+      "difficulty": "4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQyhD8ihiKU54N3j7BGVsfddyl-PY_0JNNo4uNn7uS&s"
+    },
+    {
+      "name": "Ramen Soup",
+      "ingredients": [
+        "2 chicken breasts (boneless, skin-on)",
+        "kosher salt and freshly-ground black pepper, to season",
+        "1 Tbsp unsalted butter",
+        "2 tsp sesame or vegetable oil",
+        "2 tsp fresh ginger, minced",
+        "1 Tbsp fresh garlic, minced",
+        "3 Tbsp low-sodium soy sauce",
+        "2 Tbsp mirin",
+        "4 cups rich chicken stock",
+        "1 oz dried shitake mushrooms (or 1/2 cup fresh)",
+        "1–2 tsp sea salt, to taste",
+        "2 large eggs",
+        "1/2 cup scallions, sliced",
+        "2 (3 oz) packs dried ramen noodles"
+      ],
+      "preparationTime": "1 hour",
+      "calories": "300",
+      "recipe": [
+        "Preheat the oven to 375℉. Season the chicken generously with salt and pepper.",
+        "Melt the butter in a large oven-safe skillet over medium heat. Add the chicken, skin-side down, and cook until the skin is golden brown and releases easily from the pan, about 5-7 minutes. Flip the chicken over and cook for another 4-5 minutes, until golden.",
+        "Transfer the skillet to the oven and roast for 15-20 minutes, until the chicken is cooked through. Remove from the oven, transfer the chicken to a plate, and cover with foil until ready to serve.",
+        "Heat the oil in a large pot over medium heat until shimmering. Add the garlic and ginger, and cook for a few minutes until softened. Add the soy sauce and mirin, and stir to combine. Cook for another minute.",
+        "Heat the oil in a large pot over medium heat until shimmering. Add the garlic and ginger, and cook for a few minutes until softened. Add the soy sauce and mirin, and stir to combine. Cook for another minute.",
+        "Add the stock, cover, and bring to a boil. Remove the lid, and let simmer uncovered for 5 minutes, then add the dried mushrooms. Simmer gently for another 10 minutes, and season with salt, to taste.Add the stock, cover, and bring to a boil. Remove the lid, and let simmer uncovered for 5 minutes, then add the dried mushrooms. Simmer gently for another 10 minutes, and season with salt, to taste.",
+        "Fill a pot with enough water to cover the eggs, and bring to a boil. Gently lower the eggs (still cold from the fridge) into the boiling water, and let simmer for 7 minutes (for a slightly-runny yolk) or 8 minutes (for a soft, but set-up yolk).",
+        "Meanwhile, fill a large bowl with ice water. When the timer finishes, transfer the eggs to the ice bath to stop the cooking process. Wait at least 5 minutes, or until cool enough to handle, then carefully peel away the shell and slice in half, lengthwise. Set aside until ready to serve.",
+        "Meanwhile, chop the scallions and jalapeño (if using). Slice the chicken into thin pieces. Set aside. When the eggs finish cooking, add the ramen noodles to the boiling water.",
+        "Cook for 2-3 minutes, until soft, then divide the noodles into two large bowls. Add the sliced chicken and the ramen broth. Top with the fresh scallions, jalapeño, and the soft boiled egg. Serve immediately. Enjoy!!"
+      ],
+      "difficulty": "5",
+      "image": "https://media.istockphoto.com/illustrations/japanese-ramen-noodles-illustration-id164394173?k=20&m=164394173&s=612x612&w=0&h=KyhJ7GKDNjuO67zddhVepf5h2AtkYoCP0-3WvXJ4zOQ="
+    }
+  ],
+  "Mexican": [
+    {
+      "name": "Tacos",
+      "ingredients": [
+        "1 lb. 90% to 93% lean ground beef",
+        "1 Tablespoon chili powder",
+        "1 teaspoon ground cumin",
+        "3/4 teaspoon salt",
+        "1/2 teaspoon dried oregano",
+        "1/2 teaspoon garlic powder",
+        "1/4 teaspoon ground black pepper",
+        "1/2 cup tomato sauce",
+        "1/4 cup water",
+        "12 taco shells - either hard shells or small 6-inch soft flour tortillas will work",
+        "Optional Taco Toppings: shredded cheese shredded lettuce, chopped tomatoes, diced red onion, taco sauce, sour cream, guacamole, etc."
+      ],
+      "preparationTime": "20 minutes",
+      "calories": "129",
+      "recipe": [
+        "Add the beef to a large skillet over medium-high heat. Break the meat apart with a wooden spoon. Add the chili powder, cumin, salt, oregano, garlic powder, and pepper to the meat. Stir well. Cook until the meat is cooked through, about 6-8 minutes, stirring occasionally.",
+        "Reduce the heat to medium. Add the tomato sauce and water. Stir to combine. Cook, stirring occasionally, for 7-8 minutes, until some of the liquid evaporates but the meat mixture is still a little saucy. Remove from the heat.",
+        "Warm the taco shells according to their package directions.",
+        "Fill the taco shells with 2 heaping tablespoons of taco meat. Top with desired taco toppings: shredded cheese, shredded lettuce, chopped tomatoes, diced red onion, taco sauce, sour cream, guacamole, etc."
+      ],
+      "difficulty": "2",
+      "image": "https://www.seekpng.com/png/detail/51-518834_image-result-for-taco-clipart-png-taco-plate.png"
+    },
+    {
+      "name": "Nachos",
+      "ingredients": [
+        "2 tablespoons chili powder",
+        "1 1/2 teaspoons kosher salt",
+        "1 teaspoon granulated garlic",
+        "1 teaspoon granulated onion",
+        "1 teaspoon ground cumin",
+        "1/2 teaspoon dried oregano",
+        "1/4 teaspoon black pepper",
+        "Pinch of cayenne pepper (optional)",
+        "1 teaspoon vegetable oil",
+        "1 pound ground beef (80:20 lean-to-fat ratio)",
+        "16 ounces (2 cups) refried beans, canned or homemade",
+        "1/4 cup water",
+        "1 large bag of tortilla chips",
+        "4 ounces cheddar cheese, grated (about 2 cups), plus more for topping",
+        "4 ounces Colby Jack cheese, grated (about 2 cups), plus more for topping",
+        "1 cup pico de gallo, store-bought or homemade, plus more for topping",
+        "1/4 cup chopped cilantro",
+        "1 jalapeño (pickled or fresh), sliced"
+      ],
+      "preparationTime": "30 minutes",
+      "calories": "1234",
+      "recipe": [
+        "Preheat the oven to 350°F.",
+        "Make the taco spice blend: Combine all of the spices (chili powder through cayenne) together in a small bowl.",
+        "Make the beef and bean topping: Heat the vegetable oil on medium high heat until it begins to shimmer. Add the ground beef to the pan and season it with all of the taco spice blend. As the meat cooks, use a spoon to break the meat up into crumbles.",
+        "Cook for about 8 minutes until the meat has browned and drain the fat using a colander.",
+        "Return the meat to the pan and add the refried beans and the water. Heat the mixture until the beans are smooth and warmed through. Reduce the heat to low and keep the beef-bean mixture warm while you prepare the chips.",
+        "On a 13x18-inch oven-safe platter or sheet pan, arrange the tortilla chips in a single layer, overlapping them slightly. Toast the chips in the preheated oven for 5 minutes, or just until you begin to smell their aroma.",
+        "Carefully remove the pan from the oven and top with one half of the shredded cheeses. Allow the heat from the chips to melt the cheese slightly before topping the chips with the beef and bean mixture. Sprinkle the remaining cheese over the beef and return the pan to the oven for 5 minutes, or until the cheese has fully melted",
+        "Top the nachos with the pico de gallo, chopped cilantro, jalapeño slices, or any of your preferred toppings. Serve hot."
+      ],
+      "difficulty": "3.5",
+      "image": "https://helloartsy.com/wp-content/uploads/kids/food/how-to-draw-nachos/how-to-draw-nachos-step-6.jpg"
+    },
+    {
+      "name": "Burrito",
+      "ingredients": [
+        "1 lb. lean ground beef",
+        "1 (1 ounce) packet taco seasoning mix",
+        "1 ½ cups refried beans (or 1 ½ cups drained and rinsed black beans)",
+        "¾ cup corn kernels",
+        "3 cups cooked rice (I like to use Uncle Ben's microwaveable Ready Rice for a quick option)",
+        "6 large (10-inch) flour tortillas (I like to use Mission brand 'burrito size' tortillas)",
+        "1 ½ cups shredded cheddar cheese",
+        "Optional garnish: finely diced red onion; lettuce; diced tomato or salsa; sour cream; fresh cilantro; avocado or guacamole"
+      ],
+      "preparationTime": "45 minutes",
+      "calories": "659",
+      "recipe": [
+        "Preheat oven to 350° F. Spray 9 x 13-inch baking dish with cooking spray and set aside.",
+        "Cook beef with taco seasoning mix, according to seasoning package instructions.",
+        "To prepare 1 burrito: spread ¼ cup beans down center of tortillas; top with ½ cup rice, beef, 2 tablespoons corn, and ¼ cup cheese.",
+        "Fold in opposite sides of each tortilla, then roll up, burrito style. Place, seam-sides down, in prepared dish. Repeat with remaining ingredients to prepare 6 total burritos.",
+        "Cover with foil and bake for 25 minutes (until heated through). If you are baking the burritos from the refrigerator while they’re still cold, it will take about 30-35 minutes for them to heat through."
+      ],
+      "difficulty": "4.5",
+      "image": "https://clipart.world/wp-content/uploads/2022/03/Burrito-Clipart-Images.png"
+    }
+  ],
+  "American": [
+    {
+      "name": "Hot Dog",
+      "ingredients": [
+        "1/2 medium ripe avocado, peeled",
+        "1 tablespoon lime juice",
+        "1/4 teaspoon salt",
+        "1/8 teaspoon pepper",
+        "6 hot dogs",
+        "6 hot dog buns, split",
+        "1 small tomato, chopped",
+        "3 tablespoons finely chopped red onion",
+        "3 bacon strips, cooked and crumbled"
+      ],
+      "preparationTime": "10 minutes",
+      "calories": "310",
+      "recipe": [
+        "In a small bowl, mash avocado with a fork, stirring in lime juice, salt and pepper. Grill hot dogs, covered, over medium heat until heated through, 7-9 minutes, turning occasionally.",
+        "Serve in buns. Top with avocado mixture, tomato, onion and bacon"
+      ],
+      "difficulty": "2",
+      "image": "https://media.istockphoto.com/vectors/hot-dog-with-mustard-hand-drawing-vector-id1146404440?k=20&m=1146404440&s=612x612&w=0&h=qx-qtPEiMs7TAiqnHqQU0MB2bJsP9sUWgynwoQAAjyg="
+    },
+    {
+      "name": "Hamburger",
+      "ingredients": [
+        "1 1/2 pounds 80% lean 20% fat ground beef or ground chuck",
+        "1 tablespoon Worcestershire sauce",
+        "1 1/2 teaspoons seasoning salt",
+        "1 teaspoon garlic powder",
+        "1/2 teaspoon ground black pepper",
+        "Optional: 4 slices of cheese",
+        "4 hamburger buns",
+        "Optional: hamburger toppings - lettuce tomato, onion, pickles, ketchup, mustard, mayo, etc."
+      ],
+      "preparationTime": "25 minutes",
+      "calories": "558",
+      "recipe": [
+        "Preheat the grill to 375 degrees F (medium-high).",
+        "In a large bowl, add the beef. Sprinkle evenly with the Worcestershire sauce, seasoning salt, garlic powder, and pepper. Use your hands to mix the ingredients until they are just combined.",
+        "Divide the meat mixture into fourths. Take ¼ of the meat mixture and use your hands to press it into the shape of a hamburger patty that is about ¾ inch thick. Make an indention in the middle of the patty to prevent bulging in the center of the hamburger as it cooks. Repeat with the remaining meat mixture, making 4 hamburgers.",
+        "Place the burgers on the grill. Cook 4-5 minutes on the first side. Flip the burgers over and cook an additional 4-5 minutes, until the burgers have reached the desired doneness.",
+        "If adding cheese, lay a slice of cheese on each burger patty about 1 minute before taking the burgers off the grill, so the cheese has a chance to melt.",
+        "Serve the burgers on hamburger buns with optional hamburger toppings."
+      ],
+      "difficulty": "4",
+      "image": "https://i.pinimg.com/originals/3f/1c/f0/3f1cf0e2c1db8beaca0cffd41c24a826.png"
+    },
+    {
+      "name": "Pancakes",
+      "ingredients": [
+        "1 ½ cups all-purpose flour",
+        "3 ½ teaspoons baking powder",
+        "¼ teaspoon salt, or more to taste",
+        "1 tablespoon white sugar",
+        "1 ¼ cups milk",
+        "1 egg",
+        "3 tablespoons butter, melted"
+      ],
+      "preparationTime": "20 minutes",
+      "calories": "158",
+      "recipe": [
+        "In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.",
+        "Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot."
+      ],
+      "difficulty": "2.5",
+      "image": "https://i.pinimg.com/originals/d4/30/f3/d430f351dea8aeb214704dbb33456025.jpg"
+    }
+  ],
+  "Israeli": [
+    {
+      "name": "Shakshuka",
+      "ingredients": [
+        "2 tablespoons olive oil",
+        "1 medium onion, diced",
+        "1 red bell pepper, seeded and diced",
+        "4 garlic cloves, finely chopped",
+        "2 teaspoon paprika",
+        "1 teaspoon cumin",
+        "¼ teaspoon chili powder",
+        "1 28-ounce can whole peeled tomatoes",
+        "6 large eggs",
+        "salt and pepper, to taste",
+        "1 small bunch fresh cilantro, chopped",
+        "1 small bunch fresh parsley, chopped"
+      ],
+      "preparationTime": "40 minutes",
+      "calories": "889",
+      "recipe": [
+        "Heat olive oil in a large sauté pan on medium heat. Add the chopped bell pepper and onion and cook for 5 minutes or until the onion becomes translucent.",
+        "Add garlic and spices and cook an additional minute.",
+        "Pour the can of tomatoes and juice into the pan and break down the tomatoes using a large spoon. Season with salt and pepper and bring the sauce to a simmer.",
+        "Use your large spoon to make small wells in the sauce and crack the eggs into each well. Cover the pan and cook for 5-8 minutes, or until the eggs are done to your liking.",
+        "Garnish with chopped cilantro and parsley."
+      ],
+      "difficulty": "3",
+      "image": "https://thumbs.dreamstime.com/b/shakshouka-shakshuka-served-frying-pan-top-view-traditional-middle-eastern-israeli-arab-dish-made-eggs-tomato-sauce-119432348.jpg"
+    },
+    {
+      "name": "Falafel",
+      "ingredients": [
+        "2 cups dried chickpeas (Do NOT use canned or cooked chickpeas)",
+        "½ tsp baking soda",
+        "1 cup fresh parsley leaves, stems removed",
+        "¾ cup fresh cilantro leaves, stems removed",
+        "½ cup fresh dill, stems removed",
+        "1 small onion, quartered",
+        "7-8 garlic cloves, peeled",
+        "Salt to taste",
+        "1 tbsp ground black pepper",
+        "1 tbsp ground cumin",
+        "1 tbsp ground coriander",
+        "1 tsp cayenne pepper, optional",
+        "1 tsp baking powder",
+        "2 tbsp toasted sesame seeds",
+        "Oil for frying"
+      ],
+      "preparationTime": "50 minutes",
+      "calories": "93",
+      "recipe": [
+        "(One day in advance) Place the dried chickpeas and baking soda in a large bowl filled with water to cover the chickpeas by at least 2 inches. Soak overnight for 18 hours (longer  if the chickpeas are still too hard). When ready, drain the chickpeas completely and pat them dry.",
+        "Add the chickpeas, herbs, onions, garlic and spices to the large bowl of a food processor fitted with a blade. Run the food processor 40 seconds at a time until all is well combined forming a the falafel mixture.",
+        "Transfer the falafel mixture to a container and cover tightly. Refrigerate for at least 1 hour or (up to one whole night) until ready to cook.",
+        "Just before frying, add the baking powder and sesame seeds to the falafel mixture and stir with a spoon.",
+        "Scoop tablespoonfuls of the falafel mixture and form into patties (½ inch in thickness each). It helps to have wet hands as you form the patties.",
+        "Fill a medium saucepan 3 inches up with oil. Heat the oil on medium-high until it bubbles softly. Carefully drop the falafel patties in the oil, let them fry for about 3 to 5 minutes or so until crispy and medium brown on the outside. Avoid crowding the falafel in the saucepan, fry them in batches if necessary.",
+        "Place the fried falafel patties in a colander or plate lined with paper towels to drain.",
+        "Serve falafel hot next to other small plates; or assemble the falafel patties in pita bread with tahini or hummus, arugula, tomato and cucumbers. Enjoy!"
+      ],
+      "difficulty": "4.5",
+      "image": "https://thumbs.dreamstime.com/b/falafel-pita-illustration-vegetable-salad-falafels-balls-drawing-white-background-163886879.jpg"
+    },
+    {
+      "name": "Schnitzel",
+      "ingredients": [
+        "1 lb boneless skinless chicken breasts",
+        "1/2 cup flour",
+        "2 large eggs",
+        "1 cup breadcrumbs, matzo meal, or panko",
+        "1 tbsp paprika",
+        "1 tbsp sesame seeds",
+        "1/4 tsp salt",
+        "Oil for frying",
+        "Fresh lemon wedges for garnish"
+      ],
+      "preparationTime": "35 minutes",
+      "calories": "445",
+      "recipe": [
+        "For each breast, check to see if there is a tenderloin (an extra flap of meat that sort of hangs off).",
+        "If there is a tenderloin, slice it off of the breast. Trim any visible tendons or extra bits of fat from the breast and the tenderloin. Set tenderloin aside.",
+        "Lay the breast on cutting board with smooth side facing upward. Identify the thickest round edge of the breast. Place your hand flat on the top of the breast. Slice carefully horizontally into the thickest round edge, slicing about three quarters of the way into the breast (divinding top half of breast from bottom). Do not slice all the way through.",
+        "Unfold the breast to reveal two symmetrical halves (this is a 'butterfly' of the breast). Slice down the middle to divide the breast into two equal pieces. When finished with the pound of chicken, you should have 4 breasts of relatively equal size, and perhaps a couple of tenderloins as well.",
+        "Lay down a 2- to 3-foot long strip of plastic wrap on your kitchen countertop. Place chicken breasts and tenderloins on the plastic, leaving a 2-inch space between each piece of meat. Cover the breasts with another strip of plastic, so the meat is sandwiched between two layers of plastic.",
+        "Use the flat side of a mallet to pound the breasts thin until they are of a uniform thickness, roughly 1/8 inch thin throughout.",
+        "Place all the pounded breasts and tenderloins on a plate. Set up three wide, shallow bowls and a large empty plate on your countertop. In your first bowl, put the flour. In your second bowl, beat the eggs together with 2 tsp of water until well mixed. In your third bowl, stir together the breadcrumbs, paprika, 1/4 tsp salt and sesame seeds (optional) until well blended. Place empty plate nearby where you will put your coated schnitzels.",
+        "Pour oil into a skillet or sauté pan until it’s deep enough for frying (about ½ inch). Heat the oil slowly over medium. While oil is heating, dip each breast one by one into your breading bowls—first dredge with flour.",
+        "Next, dip the floured breast in egg until well coated.",
+        "Finally, place the egg-covered breast into the bowl of breadcrumb mixture. Use a dry hand to coat the breast evenly with breadcrumbs. Repeat process for remaining breasts and tenderloins.",
+        "You want your frying oil to be around 350 degreees F - hot, but not so hot that the oil smokes or splatters. You can test the oil temperature with a tenderloin first, if you have one. Fry the coated breasts in single-layer batches until they are golden brown on both sides. If your oil is at the right temperature, it should take about 2-3 minutes per side to cook the schnitzels.",
+        "Don’t fry more than two breasts at a time in a regular sized skillet, or the oil temperature will drop and the schnitzels will become greasy. When the oil is at the right temperature, the schnitzels will absorb very little oil and cook up light and crisp.",
+        "After frying, set the schnitzels on a drying rack (or on a paper towel-lined plate) to drain excess oil.",
+        "Sprinkle the schnitzels with additional salt to taste, if desired. Serve hot garnished with lemon wedges or your favorite condiment. Mustard and hot sauce both pair well with schnitzel. If you have any tenderloins, take dibs on who gets to eat them - that meat is especially tender. Enjoy!"
+      ],
+      "difficulty": "5",
+      "image": "https://cdn.xxl.thumbs.canstockphoto.com/schnitzel-clipart-vector_csp30048459.jpg"
+    }
+  ]
+}
